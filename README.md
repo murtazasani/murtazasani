@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 <li>
 💬 Ask me about <strong>NumPy, Pandas, Data Visualization, SQL & Big Data.</strong> 
 </li>
+<br>
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=murtazasani&amp;show_icons=true" alt="murtazasani">
 </p>
