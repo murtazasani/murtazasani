@@ -17,10 +17,9 @@ Here are some ideas to get you started:
 <h1 align="center"> Welcome to my profile, I'm Muhammad Murtaza </h1>
 <h3 align="center"> Data Scientist </h3>
 <li>
-  <ul>
-  🌱 I’m currently learning Data Science, Machine Learning and Deep Learning. </strong>
-💬 Ask me about NumPy, Pandas, Data Visualization, SQL & Big Data.
-</ul>
+🌱 I’m currently learning Data Science, Machine Learning and Deep Learning. </strong>
 </li>
-
+<li>
+💬 Ask me about NumPy, Pandas, Data Visualization, SQL & Big Data. 
+</li>
 
