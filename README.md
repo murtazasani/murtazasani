@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center"> Welcome to my profile, I'm Muhammad Murtaza </h1>
-<hr>
 <h3 align="center"> Data Scientist </h3>
 <li>
   <ul>
