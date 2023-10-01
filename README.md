@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 <h3 align="center"> Data Scientist </h3>
 
 <a target="_blank" rel="noopener noreferrer nofollow" href="![Org](https://github.com/murtazasani/murtazasani/assets/121139736/731cd748-6d09-4191-8626-548f736c3d48)
+
 ">
-  <img align="right" width="400" src="![Org](https://github.com/murtazasani/murtazasani/assets/121139736/731cd748-6d09-4191-8626-548f736c3d48)
-" style="max-width: 100%;">
+  <img align="right" width="400" src="![Org](https://github.com/murtazasani/murtazasani/assets/121139736/731cd748-6d09-4191-8626-548f736c3d48)" style="max-width: 100%;">
 </a>
 
 <li>
