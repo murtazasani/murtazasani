@@ -14,10 +14,9 @@ Here are some ideas to get you started:
 -->
 <h1 align="center"> Welcome to my profile, I'm Muhammad Murtaza </h1>
 <h3 align="center"> Data Scientist </h3>
-
-<a target="_blank" rel="noopener noreferrer nofollow" href="![Org](https://github.com/murtazasani/murtazasani/assets/121139736/731cd748-6d09-4191-8626-548f736c3d48)">
-  <img align="right" width="400" src="![Org](https://github.com/murtazasani/murtazasani/assets/121139736/731cd748-6d09-4191-8626-548f736c3d48)" style="max-width: 100%;">
-</a>
+<p align="right" width="400">
+  ![Org](https://github.com/murtazasani/murtazasani/assets/121139736/731cd748-6d09-4191-8626-548f736c3d48)
+</p>
 
 <li>
 🌱 I’m currently learning <strong>Data Science, Machine Learning and Deep Learning. </strong>
