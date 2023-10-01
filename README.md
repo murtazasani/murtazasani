@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 <h1 align="center"> Welcome to my profile, I'm Muhammad Murtaza </h1>
 <h3 align="center"> Data Scientist </h3>
 <p align="right" width="400">
-  (https://github.com/murtazasani/murtazasani/assets/121139736/731cd748-6d09-4191-8626-548f736c3d48)
+  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/121139736/271857966-731cd748-6d09-4191-8626-548f736c3d48.gif">
 </p>
 
 <li>
