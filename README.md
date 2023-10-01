@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 <h1 align="center"> Welcome to my profile, I'm Muhammad Murtaza </h1>
 <h3 align="center"> Data Scientist </h3>
-<img align="right" width="400" src="https://github.com/murtazasani/murtazasani/blob/main/Org.gif" style="max-width: 100%;"></a>
+<img align="right" width="350" src="https://github.com/murtazasani/murtazasani/blob/main/Org.gif" style="max-width: 100%;"></a>
 <li>
 🌱 I’m currently learning <strong>Data Science, Machine Learning and Deep Learning. </strong>
 </li>
