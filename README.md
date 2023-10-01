@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 <h1 align="center"> Welcome to my profile, I'm Muhammad Murtaza </h1>
 <h3 align="center"> Data Scientist </h3>
 
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/murtazasani/murtazasani/main/Org.gif">
-  <img align="right" width="400" src="https://raw.githubusercontent.com/murtazasani/murtazasani/main/Org.gif" style="max-width: 100%;">
+<a target="_blank" rel="noopener noreferrer nofollow" href="">
+  <img align="right" width="400" src="" style="max-width: 100%;">
 </a>
 
 <li>
